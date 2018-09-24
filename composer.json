@@ -1,0 +1,16 @@
+{
+    "name": "getstartedon/directorytree",
+    "type": "project",
+    "description": "Directory structure for organize your all projects.",
+    "keywords": ["directory","tree"],
+    "homepage": "https://github.com/GetStartedOn/DirectoryTree",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "IamProgrammerlk",
+            "email": "support@iamprogrammer.lk",
+            "homepage": "https://iamprogrammer.lk",
+            "role": "Developer"
+        }
+    ]
+}
